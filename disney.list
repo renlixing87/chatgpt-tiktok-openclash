@@ -1,6 +1,6 @@
-cdn.registerdisney.go.com
-disneyplus.com
-disney-plus.net
-dssott.com
-bamgrid.com
-execute-api.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,cdn.registerdisney.go.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
