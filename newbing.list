@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,global.bing.com
 DOMAIN-SUFFIX,c.bing.com
 DOMAIN-SUFFIX,ads.bing.com
-DOMAIN-SUFFIX,copilot.microsoft.com
+HOST,copilot.microsoft.com
 HOST-SUFFIX,bing.com
 HOST-SUFFIX,bing.com.cn
 HOST-SUFFIX,bing.net
